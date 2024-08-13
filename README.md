@@ -1,4 +1,4 @@
-# Apple Vision Pro Clone Project (Frontend)
+# Apple Vision Pro Clone 
 
 Welcome to the Apple Vision Pro Clone Project! This repository contains the frontend code for creating a virtual reality (VR) experience inspired by Apple's Vision Pro. This project focuses exclusively on replicating the visual and interactive aspects of the Vision Pro using HTML, CSS, and JavaScript.
 
