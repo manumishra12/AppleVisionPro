@@ -54,6 +54,8 @@ To view and test this project, you need:
 - A modern web browser (e.g., Chrome, Firefox, Safari, Edge).
 - Basic knowledge of HTML, CSS, and JavaScript (for understanding and modifying the code).
 
+<img src="animated.gif" alt="Vision Pro Demo" width="750" height="450">
+
 ## Installation
 
 1. **Clone the Repository**:
